@@ -3,5 +3,5 @@
 รหัสนักศึกษา 6110110200
 
 โดยจะมี 1 web app สามารถลิงค์เข้าไปเว็บสมาชิคได้โดย LOGIN
-Username : Test
-Password : 123456789Asdf
+Username : stroa
+Password : admin1234
